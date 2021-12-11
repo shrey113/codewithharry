@@ -1,0 +1,92 @@
+.body
+{
+    text-align: center;
+    font-family: sans-serif;
+}
+
+.button
+{
+    background-color: #dc3545;
+    border: none;
+    color: white;
+  margin: 0.5%;
+}
+.cards
+{
+    width: 70%;
+    margin-left: 15%;
+    margin-top: 5%;
+}
+.card{
+    padding: 1%;
+    margin: 4%;
+    text-align: center;
+   
+}
+.card-title
+{
+    text-align: center;
+    color: black;
+}
+.card-img-top
+{
+    height: 200px;
+}
+.card-text
+{
+    font-weight: 300;
+    font-size: 1rem;
+    color: black;
+    padding-bottom: 10px;
+}
+.harry-img
+{
+    border-radius: 90%;
+    width: 40px;
+    margin-left: 20px;
+}
+.main-content
+{
+    text-align: center;
+    background-color: #e9ecef;
+    padding-top:5% ;
+    padding-bottom:5% ;
+    
+}
+.nav-menu
+{
+    color: white;
+    font-weight: bold;
+}
+form{
+    width: 120%;
+}
+
+
+.search-box
+{
+    margin-left: 50%;
+   
+}
+p
+{
+width: 70%;
+margin: auto;
+color: #6c757d;
+padding: 2%;
+font-size: 1.5rem;
+font-weight: 300;
+}
+.harry-img-main-content
+{
+width: 7%;
+}
+.copyright
+{
+    text-align: center;
+    background-color: rgb(75, 73, 73);
+    margin: 2% 0 0;
+    padding:1%;
+    color: white;
+    font-weight: 100;
+}
